@@ -6,7 +6,7 @@ Author:
 
 ## Description
 
-In this repository, I provide `R` function for the implementation of 2PL Item Response Theory (IRT) model with EM Algrotihm and Polya-Gamma data augmentation (Polson *el al*. 2013). The algorithm here is based on the procedure proposed by Goplerud (2019). To estimate statistical uncertainty, I use the parametric bootstrap method proposed by Lewis and Poole (2004). For the fast estimation of the model, I use auxilary `C++` functions.
+In this repository, I provide `R` function for the implementation of 2PL Item Response Theory (IRT) model with EM Algorithm and Polya-Gamma data augmentation (Polson *el al*. 2013). The algorithm here is based on the procedure proposed by Goplerud (2019). To estimate statistical uncertainty, I use the parametric bootstrap method proposed by Lewis and Poole (2004). For the fast estimation of the model, I use auxilary `C++` functions.
 
 For those who are interested in the application, I provide an example at https://sunaninattahito.hatenablog.com/entry/2022/04/29/212901 (but only in Japanese. I will write it in English soon). 
 
