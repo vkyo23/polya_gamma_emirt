@@ -1,8 +1,5 @@
 # Load packages ============================================
-library(Rcpp)
-library(RcppArmadillo)
 library(tidyverse)
-setwd("/mnt/c/Users/Kanetaka/Dropbox/R/polya_gamma_emirt/R")
 
 # Load functions ===========================================
 source("pg_emirt_fn.R")
